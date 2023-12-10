@@ -1,0 +1,27 @@
+.black {
+  color: #000;
+}
+
+.white {
+  color: #fff;
+}
+
+.gray {
+  color: #808080;
+
+  &-dark {
+    color: #a9a9a9;
+  }
+
+  &-light {
+    color: #d3d3d3;
+  }
+
+  &-steel {
+    color: #71797e;
+  }
+
+  &-ash {
+    color: #b2beb5;
+  }
+}
